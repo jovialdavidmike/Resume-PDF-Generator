@@ -1,0 +1,6 @@
+{
+  "name": "Resume PDF Generator",
+  "description": "Generate a beautiful PDF resume for Agha Chibike Emmanuel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
